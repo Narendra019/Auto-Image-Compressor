@@ -1,2 +1,4 @@
 # Auto-Image-Compressor
-Resizing &amp; adding in MS-Word using Python 
+Resizing and adding in MS-Word using Python.
+# Libraries
+ Os,Tkinter,Python-docx,PIL
